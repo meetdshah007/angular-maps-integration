@@ -1,0 +1,10 @@
+<div>
+  <button type="button" style="margin-bottom: 20px;" (click)="clear()" [disabled]="points.length !== 2">Clear
+    Markers</button>
+  <button type="button" (click)="restart()" [disabled]="!truckMarker">Restart Journey</button>
+  <h3 *ngIf="points.length === 0">Select Starting point of the trip.</h3>
+  <h3 *ngIf="points.length === 1">Select Destination point of the trip.</h3>
+  <h3 *ngIf="points.length === 2">Distance between last two points: {{lastDistance?.toFixed(2)}} km</h3>
+</div>
+
+<div id="map2" style="height: 300px; width: 500px;"></div>

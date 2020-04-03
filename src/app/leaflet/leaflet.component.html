@@ -1,0 +1,19 @@
+<form class="form-inline p-2">
+  <div class="form-group p-2" style="max-width: 350px;">
+    <label> Source </label>
+    <div class="form-control form-control-lg w-100">
+      {{source.lat}}, {{source.lng}}
+    </div>
+  </div>
+
+  <div class="form-group p-2" style="max-width: 350px;">
+    <label> Destination </label>
+    <div class="form-control form-control-lg w-100">
+      {{destination.lat}}, {{destination.lng}}
+    </div>
+  </div>
+
+  <button class="btn btn-lg btn-primary" (click)="drawDirectionsOnMap()" style="margin-top: 25px;">Start
+    Journey</button>
+</form>
+<div id="map3" style="height: 400px; width: 100%;"></div>

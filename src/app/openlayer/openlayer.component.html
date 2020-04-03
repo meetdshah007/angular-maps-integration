@@ -1,0 +1,8 @@
+<div>
+  <button type="button" (click)="clearPins()" style="margin-bottom: 20px;">Clear Markers</button>
+  <h3 *ngIf="points.length === 0">Select Starting point of the trip.</h3>
+  <h3 *ngIf="points.length === 1">Select Destination point of the trip.</h3>
+  <h3 *ngIf="points.length === 2">Verify the route.</h3>
+</div>
+
+<div id="map" style="height: 300px; width: 500px;"></div>

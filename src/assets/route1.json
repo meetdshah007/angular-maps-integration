@@ -1,0 +1,441 @@
+{
+  "waypoints": [
+    {
+      "options": {},
+      "latLng": {
+        "lat": 23.030763,
+        "lng": 72.582898
+      },
+      "_initHooksCalled": true
+    },
+    {
+      "options": {},
+      "latLng": {
+        "lat": 23.035334,
+        "lng": 72.586664
+      },
+      "_initHooksCalled": true
+    }
+  ],
+  "routes": [
+    {
+      "name": "",
+      "coordinates": [
+        {
+          "lat": 23.03077,
+          "lng": 72.5827
+        },
+        {
+          "lat": 23.0309,
+          "lng": 72.5827
+        },
+        {
+          "lat": 23.03109,
+          "lng": 72.58272
+        },
+        {
+          "lat": 23.03116,
+          "lng": 72.58274
+        },
+        {
+          "lat": 23.03137,
+          "lng": 72.58267
+        },
+        {
+          "lat": 23.03171,
+          "lng": 72.58257
+        },
+        {
+          "lat": 23.03177,
+          "lng": 72.58256
+        },
+        {
+          "lat": 23.03177,
+          "lng": 72.58256
+        },
+        {
+          "lat": 23.03223,
+          "lng": 72.58267
+        },
+        {
+          "lat": 23.03242,
+          "lng": 72.58273
+        },
+        {
+          "lat": 23.03294,
+          "lng": 72.58277
+        },
+        {
+          "lat": 23.03369,
+          "lng": 72.58282
+        },
+        {
+          "lat": 23.03369,
+          "lng": 72.58282
+        },
+        {
+          "lat": 23.03368,
+          "lng": 72.58286
+        },
+        {
+          "lat": 23.03368,
+          "lng": 72.58292
+        },
+        {
+          "lat": 23.03365,
+          "lng": 72.58315
+        },
+        {
+          "lat": 23.03373,
+          "lng": 72.58356
+        },
+        {
+          "lat": 23.03381,
+          "lng": 72.58397
+        },
+        {
+          "lat": 23.03381,
+          "lng": 72.58402
+        },
+        {
+          "lat": 23.03386,
+          "lng": 72.58439
+        },
+        {
+          "lat": 23.03387,
+          "lng": 72.58442
+        },
+        {
+          "lat": 23.03388,
+          "lng": 72.58476
+        },
+        {
+          "lat": 23.03389,
+          "lng": 72.58515
+        },
+        {
+          "lat": 23.03382,
+          "lng": 72.58533
+        },
+        {
+          "lat": 23.03382,
+          "lng": 72.58533
+        },
+        {
+          "lat": 23.03471,
+          "lng": 72.58608
+        },
+        {
+          "lat": 23.0348,
+          "lng": 72.58616
+        },
+        {
+          "lat": 23.03523,
+          "lng": 72.58664
+        },
+        {
+          "lat": 23.03531,
+          "lng": 72.5867
+        },
+        {
+          "lat": 23.03531,
+          "lng": 72.5867
+        }
+      ],
+      "instructions": [
+        {
+          "type": "Head",
+          "distance": 114.6,
+          "time": 20.499999999999996,
+          "road": "",
+          "direction": "N",
+          "index": 0,
+          "mode": "driving",
+          "modifier": "Right",
+          "text": "Head north"
+        },
+        {
+          "type": "SlightRight",
+          "distance": 215.8,
+          "time": 51.8,
+          "road": "",
+          "direction": "N",
+          "index": 7,
+          "mode": "driving",
+          "modifier": "SlightRight",
+          "text": "Make a slight right"
+        },
+        {
+          "type": "EndOfRoad",
+          "distance": 261.6,
+          "time": 41.900000000000006,
+          "road": "",
+          "direction": "E",
+          "index": 12,
+          "mode": "driving",
+          "modifier": "Right",
+          "text": "Turn right"
+        },
+        {
+          "type": "Left",
+          "distance": 217.9,
+          "time": 49.8,
+          "road": "",
+          "direction": "NE",
+          "index": 24,
+          "mode": "driving",
+          "modifier": "Left",
+          "text": "Turn left"
+        },
+        {
+          "type": "DestinationReached",
+          "distance": 0,
+          "time": 0,
+          "road": "",
+          "direction": "N",
+          "index": 29,
+          "mode": "driving",
+          "text": "You have arrived at your destination"
+        }
+      ],
+      "summary": {
+        "totalDistance": 809.9,
+        "totalTime": 164
+      },
+      "waypointIndices": [
+        0,
+        29
+      ],
+      "inputWaypoints": [
+        {
+          "options": {
+            "allowUTurn": false
+          },
+          "latLng": {
+            "lat": 23.030763,
+            "lng": 72.582898
+          },
+          "_initHooksCalled": true
+        },
+        {
+          "options": {
+            "allowUTurn": false
+          },
+          "latLng": {
+            "lat": 23.035334,
+            "lng": 72.586664
+          },
+          "_initHooksCalled": true
+        }
+      ],
+      "waypoints": [
+        {
+          "options": {
+            "allowUTurn": false
+          },
+          "latLng": {
+            "lat": 23.030767,
+            "lng": 72.582698
+          },
+          "_initHooksCalled": true
+        },
+        {
+          "options": {
+            "allowUTurn": false
+          },
+          "latLng": {
+            "lat": 23.035307,
+            "lng": 72.586703
+          },
+          "_initHooksCalled": true
+        }
+      ],
+      "properties": {
+        "isSimplified": true
+      },
+      "routesIndex": 0
+    },
+    {
+      "name": "",
+      "coordinates": [
+        {
+          "lat": 23.03077,
+          "lng": 72.5827
+        },
+        {
+          "lat": 23.03054,
+          "lng": 72.58269
+        },
+        {
+          "lat": 23.03045,
+          "lng": 72.58266
+        },
+        {
+          "lat": 23.03045,
+          "lng": 72.58266
+        },
+        {
+          "lat": 23.03047,
+          "lng": 72.58296
+        },
+        {
+          "lat": 23.03053,
+          "lng": 72.58312
+        },
+        {
+          "lat": 23.03051,
+          "lng": 72.58336
+        },
+        {
+          "lat": 23.03053,
+          "lng": 72.58353
+        },
+        {
+          "lat": 23.03053,
+          "lng": 72.58353
+        },
+        {
+          "lat": 23.03082,
+          "lng": 72.58372
+        },
+        {
+          "lat": 23.0309,
+          "lng": 72.58376
+        },
+        {
+          "lat": 23.03259,
+          "lng": 72.58455
+        },
+        {
+          "lat": 23.03333,
+          "lng": 72.58496
+        },
+        {
+          "lat": 23.03382,
+          "lng": 72.58533
+        },
+        {
+          "lat": 23.03471,
+          "lng": 72.58608
+        },
+        {
+          "lat": 23.0348,
+          "lng": 72.58616
+        },
+        {
+          "lat": 23.03523,
+          "lng": 72.58664
+        },
+        {
+          "lat": 23.03531,
+          "lng": 72.5867
+        },
+        {
+          "lat": 23.03531,
+          "lng": 72.5867
+        }
+      ],
+      "instructions": [
+        {
+          "type": "Head",
+          "distance": 35.9,
+          "time": 13,
+          "road": "",
+          "direction": "S",
+          "index": 0,
+          "mode": "driving",
+          "modifier": "Left",
+          "text": "Head south"
+        },
+        {
+          "type": "Left",
+          "distance": 90.5,
+          "time": 17.5,
+          "road": "",
+          "direction": "E",
+          "index": 3,
+          "mode": "driving",
+          "modifier": "Left",
+          "text": "Turn left"
+        },
+        {
+          "type": "Left",
+          "distance": 628.5,
+          "time": 163.5,
+          "road": "",
+          "direction": "NE",
+          "index": 8,
+          "mode": "driving",
+          "modifier": "Left",
+          "text": "Turn left"
+        },
+        {
+          "type": "DestinationReached",
+          "distance": 0,
+          "time": 0,
+          "road": "",
+          "direction": "N",
+          "index": 18,
+          "mode": "driving",
+          "text": "You have arrived at your destination"
+        }
+      ],
+      "summary": {
+        "totalDistance": 754.9,
+        "totalTime": 194
+      },
+      "waypointIndices": [
+        0,
+        18
+      ],
+      "inputWaypoints": [
+        {
+          "options": {
+            "allowUTurn": false
+          },
+          "latLng": {
+            "lat": 23.030763,
+            "lng": 72.582898
+          },
+          "_initHooksCalled": true
+        },
+        {
+          "options": {
+            "allowUTurn": false
+          },
+          "latLng": {
+            "lat": 23.035334,
+            "lng": 72.586664
+          },
+          "_initHooksCalled": true
+        }
+      ],
+      "waypoints": [
+        {
+          "options": {
+            "allowUTurn": false
+          },
+          "latLng": {
+            "lat": 23.030767,
+            "lng": 72.582698
+          },
+          "_initHooksCalled": true
+        },
+        {
+          "options": {
+            "allowUTurn": false
+          },
+          "latLng": {
+            "lat": 23.035307,
+            "lng": 72.586703
+          },
+          "_initHooksCalled": true
+        }
+      ],
+      "properties": {
+        "isSimplified": true
+      },
+      "routesIndex": 1
+    }
+  ]
+}

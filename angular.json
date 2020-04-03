@@ -24,9 +24,17 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/mapbox-gl/dist/mapbox-gl.css",
+              "node_modules/leaflet/dist/leaflet.css",
+              "node_modules/leaflet-routing-machine/dist/leaflet-routing-machine.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/mapbox-gl/dist/mapbox-gl.js",
+              "node_modules/leaflet/dist/leaflet.js",
+              "src/assets/MovingMarker.js",
+              "node_modules/leaflet-routing-machine/dist/leaflet-routing-machine.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -120,6 +128,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "hotel-waste"
 }

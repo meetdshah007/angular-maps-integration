@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  geoCoderKey: '5b3ce3597851110001cf624848f0e1a24d6945c7ac41c844df2f2a08'
 };
 
 /*
